@@ -1,7 +1,7 @@
 **Greek:**
 
 Δημιουργία ιστοσελίδας τύπου e-learning για ένα μάθημα του τμήματος Πληροφορικής. 
-Στο πρώτο μέρος γίνεται χρήση μόνο της HTML και της CSS.
+Στο πρώτο μέρος γίνεται χρήση μόνο της HTML και της CSS. Για την εκφώνηση της εργασίας δείτε το αρχείο Pronunciation.docx στον φάκελο PronunciationAndReport
 Στο δεύτερο μέρος η σελίδα επικοινωνεί με βάση δεδομένων SQL με τη χρήση php. Link για δεύτερο μέρος:
 
 **Για την υλοποίηση του στατικού ιστοχώρου χρησιμοποιήθηκαν τα εξής αρχέια:**
@@ -29,7 +29,7 @@
 **English**
 
 Creation of an e-learning website for a course of the Department of Computer Science. 
-In the first part only HTML and CSS are used.
+In the first part only HTML and CSS are used. For the pronunciation of the task see the Pronunciation.docx file in the PronunciationAndReport folder
 In the second part the page communicates with SQL database using php. Link for second part:
 
 **The following archives were used to implement the static website:**
